@@ -1,0 +1,24 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://viacep.com.br/ws/20040007/json/"
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "cep": "20040-007",
+      "logradouro": "Avenida Rio Branco",
+      "complemento": "de 163 a 185 - lado ímpar",
+      "unidade": "",
+      "bairro": "Centro",
+      "localidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "regiao": "Sudeste",
+      "ibge": "3304557",
+      "gia": "",
+      "ddd": "21",
+      "siafi": "6001"
+    }
+  }
+}
